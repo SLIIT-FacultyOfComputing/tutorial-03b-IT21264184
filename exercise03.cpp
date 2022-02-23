@@ -10,10 +10,9 @@ int volume(int height, int width, int length);
 // Do not change the main function
 int main() {
     // 2. Create a variable called box1 of the Box structure type
-    // int box1Height, box1Width, box1Length;
-    // 3. Create a variable called box2 of the Box structure type
-    
-    // int box2Height, box2Width, box2Length;
+     int box1Height, box1Width, box1Length;
+  // 3. Create a variable called box2 of the Box structure type   
+   int box2Height, box2Width, box2Length;
     int totalVolume;
     
     // 4. Input the height, width, lenght of box1 and box2
